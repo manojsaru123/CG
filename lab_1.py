@@ -15,7 +15,7 @@ def input_point(display_text):
 
 
 if answer == "P":
-    point = input_point()
+    point = input_point("")
     print(point)
 
 elif answer == "L":
